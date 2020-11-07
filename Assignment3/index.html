@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body bgcolor="Tomato">
+<h1 style="background-color:DodgerBlue;">Elasticsearch Implementation</h1>
+<form action="/" method="post" autocomplete="off">
+    <label for="q">search here :</label><input type="text" name="q" id="q" value="{{q}}">
+    <input type="submit" value="search">
+    <ol>
+    {% for resp in response.hits.hits %}
+    <li><img src="{{resp._source.similar_pi}}"></li>
+    {% endfor %}
+</ol>
+
+</form>
+</body>
+</html>
