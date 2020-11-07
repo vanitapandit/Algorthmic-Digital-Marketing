@@ -1,6 +1,6 @@
 Team Members:
 
-Kaviya - 001387786
+Kaviya - 001387786 | 
 Vanita - 001087224
 
 Implementing Visual Search
