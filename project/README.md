@@ -1,6 +1,20 @@
 # Project - Team3
 
 
+# LINKS:
+
+https://docs.google.com/document/d/1jY8cgDY6ykRgf3mlroCwM7fuRFTkAIqwi49uQmWbbCE/edit#heading=h.oghp82a5r6jc
+
+https://codelabs-preview.appspot.com/?file_id=1jY8cgDY6ykRgf3mlroCwM7fuRFTkAIqwi49uQmWbbCE#0
+
+# REPORTS:
+
+https://app.powerbi.com/groups/me/reports/40a87fba-9697-449c-8530-62845d60ddd5?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
+
+https://app.powerbi.com/groups/me/reports/35475db1-6020-463f-ad3c-a6ef01ac7c64?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
+
+
+
 | Author |  |
 | ------ | ------ |
 | Kaviya Sachi | Vanita Pandit |
