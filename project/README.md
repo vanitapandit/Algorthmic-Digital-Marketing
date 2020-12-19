@@ -1,9 +1,9 @@
 # Project - Team3
 
 
-# RUN PROJECT
+# RUN PROJECT:
 
-###Locally:
+### Locally:
 
 - cd recommendation
 - streamlit run main.py
