@@ -1,6 +1,13 @@
 # Project - Team3
 
 
+# RUN PROJECT
+
+###Locally:
+
+- cd recommendation
+- streamlit run main.py
+
 # LINKS:
 
 https://docs.google.com/document/d/1jY8cgDY6ykRgf3mlroCwM7fuRFTkAIqwi49uQmWbbCE/edit#heading=h.oghp82a5r6jc
